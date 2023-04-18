@@ -1,0 +1,19 @@
+@import url(./fonts/font.css);
+
+html * {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.empty {
+  cursor: default !important;
+  background-color: white !important;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  margin-left: 4px;
+}
