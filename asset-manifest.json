@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/n-puzzle/static/css/main.065fa8ff.css",
+    "main.js": "/n-puzzle/static/js/main.c59f77d9.js",
+    "static/js/787.cf8dc33e.chunk.js": "/n-puzzle/static/js/787.cf8dc33e.chunk.js",
+    "static/media/OpenSans-MediumItalic.woff": "/n-puzzle/static/media/OpenSans-MediumItalic.494ba1214eb7e125a68d.woff",
+    "static/media/OpenSans-LightItalic.woff": "/n-puzzle/static/media/OpenSans-LightItalic.d09a2ced8c133bdcba7c.woff",
+    "static/media/OpenSans-SemiBoldItalic.woff": "/n-puzzle/static/media/OpenSans-SemiBoldItalic.5786d8d850b32344f0e4.woff",
+    "static/media/OpenSans-Italic.woff": "/n-puzzle/static/media/OpenSans-Italic.b07f545967406043b875.woff",
+    "static/media/OpenSans-ExtraBoldItalic.woff": "/n-puzzle/static/media/OpenSans-ExtraBoldItalic.852f5a55f60b24f9f408.woff",
+    "static/media/OpenSans-BoldItalic.woff": "/n-puzzle/static/media/OpenSans-BoldItalic.6ca1b8c7579329d49a74.woff",
+    "static/media/OpenSans-Medium.woff": "/n-puzzle/static/media/OpenSans-Medium.bf421ba0e8cd4d717f13.woff",
+    "static/media/OpenSans-Regular.woff": "/n-puzzle/static/media/OpenSans-Regular.6c5acfa99c83633bb078.woff",
+    "static/media/OpenSans-SemiBold.woff": "/n-puzzle/static/media/OpenSans-SemiBold.ad9bc43d5d0309e8bd2e.woff",
+    "static/media/OpenSans-Light.woff": "/n-puzzle/static/media/OpenSans-Light.a6f9c2938492d41f8896.woff",
+    "static/media/OpenSans-ExtraBold.woff": "/n-puzzle/static/media/OpenSans-ExtraBold.6876b438bbdae32be8e5.woff",
+    "static/media/OpenSans-Bold.woff": "/n-puzzle/static/media/OpenSans-Bold.eb8f357f58267539eb7b.woff",
+    "static/media/OpenSans-MediumItalic.woff2": "/n-puzzle/static/media/OpenSans-MediumItalic.06f6f1e8b843d9dffa96.woff2",
+    "static/media/OpenSans-LightItalic.woff2": "/n-puzzle/static/media/OpenSans-LightItalic.390e0b571ddcd2c57cbe.woff2",
+    "static/media/OpenSans-SemiBoldItalic.woff2": "/n-puzzle/static/media/OpenSans-SemiBoldItalic.aa10f6b086829b3484a6.woff2",
+    "static/media/OpenSans-Italic.woff2": "/n-puzzle/static/media/OpenSans-Italic.13f46539ef27843769eb.woff2",
+    "static/media/OpenSans-ExtraBoldItalic.woff2": "/n-puzzle/static/media/OpenSans-ExtraBoldItalic.404c75e4574e32ea8bbf.woff2",
+    "static/media/OpenSans-BoldItalic.woff2": "/n-puzzle/static/media/OpenSans-BoldItalic.0a76d9b69712d05a6ab5.woff2",
+    "static/media/OpenSans-Medium.woff2": "/n-puzzle/static/media/OpenSans-Medium.787643710fd10258c51d.woff2",
+    "static/media/OpenSans-Regular.woff2": "/n-puzzle/static/media/OpenSans-Regular.3ef06ba3c7099e63c9ce.woff2",
+    "static/media/OpenSans-SemiBold.woff2": "/n-puzzle/static/media/OpenSans-SemiBold.a7e5d5e944cf5e03d5d6.woff2",
+    "static/media/OpenSans-Light.woff2": "/n-puzzle/static/media/OpenSans-Light.c320c2644a7f77a87257.woff2",
+    "static/media/OpenSans-ExtraBold.woff2": "/n-puzzle/static/media/OpenSans-ExtraBold.3d3a7fab38f8fd7987c8.woff2",
+    "static/media/OpenSans-Bold.woff2": "/n-puzzle/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
+    "index.html": "/n-puzzle/index.html",
+    "main.065fa8ff.css.map": "/n-puzzle/static/css/main.065fa8ff.css.map",
+    "main.c59f77d9.js.map": "/n-puzzle/static/js/main.c59f77d9.js.map",
+    "787.cf8dc33e.chunk.js.map": "/n-puzzle/static/js/787.cf8dc33e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065fa8ff.css",
+    "static/js/main.c59f77d9.js"
+  ]
+}
