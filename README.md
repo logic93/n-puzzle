@@ -21,7 +21,3 @@ In this case it's 4, meaning the grid will be 4x4 (4 rows, 4 columns) which will
 This app is using styled-components for styling.
 
 https://styled-components.com/docs
-
-# DEMO
-
-https://logic93.github.io/n-puzzle/
